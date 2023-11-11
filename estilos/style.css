@@ -28,8 +28,8 @@ main {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 629px;
-    width: 311px;
+    height: 639px;
+    width: 301px;
     background: url('../imagens/frame-iphone.png') no-repeat;
     
  }
@@ -45,8 +45,8 @@ main {
     text-align: light;
  }
  section#redes-sociais img {
-    width: 50px;
-    margin: 10px;
+    width: 40px;
+    margin: 8px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
     box-sizing: border-box;
